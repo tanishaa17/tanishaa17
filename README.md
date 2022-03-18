@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanisha99241556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisha99241556" height="30" width="40" /></a>
+<a href="tanisha-gupta-9170b0230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisha99241556" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanisha-gupta-9170b0230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha-gupta-9170b0230/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=db0777c7-6a96-45f6-9c9d-48c5b66e69f5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=db0777c7-6a96-45f6-9c9d-48c5b66e69f5" height="30" width="40" /></a>
 <a href="https://medium.com/@tanishaa17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanishaa17" height="30" width="40" /></a>
