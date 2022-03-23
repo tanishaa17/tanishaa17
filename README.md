@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-p8i1jp554-tanishag117-gmailcom.vercel.app/](https://portfolio-p8i1jp554-tanishag117-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://transcendent-salmiakki-228dad.netlify.app/](https://transcendent-salmiakki-228dad.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@tanishaa17](https://medium.com/@tanishaa17)
 
