@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanishag117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16YGa6udN0AK2aQ0C26AYAsUuuCC9CvZG/view?usp=sharing](https://drive.google.com/file/d/16YGa6udN0AK2aQ0C26AYAsUuuCC9CvZG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BLqHGPaD4oZnilcb75dizqI7Zb70WsZS/view?usp=sharing](https://drive.google.com/file/d/1BLqHGPaD4oZnilcb75dizqI7Zb70WsZS/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
