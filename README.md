@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="" alt="tanishaa17" /> </p>
 
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/96083845?v=4"><img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://tanisha-gupta.netlify.app/](https://tanisha-gupta.netlify.app/)
 
