@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanisha</h1>
 <h3 align="center">A passionate Full-Stack web developer from India</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" height="40px" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" height="50px" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
 
