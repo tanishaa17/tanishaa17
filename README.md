@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tanisha</h1>
 <h3 align="center">A passionate Full-Stack web developer from India</h3>
 
-<p align="left"> <img src="https://github.com/tanishaa17" alt="tanishaa17" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/96083845?v=4"><img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://tanisha-gupta.netlify.app/](https://tanisha-gupta.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanishag117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wFrKYLXajIp4DzEs84LAsCgsE22wnYbL/view?usp=share_link](https://drive.google.com/file/d/1wFrKYLXajIp4DzEs84LAsCgsE22wnYbL/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1Uj5qVDZEETIY59lKbunA0AGSmUm5nsrm](https://drive.google.com/drive/u/1/folders/1Uj5qVDZEETIY59lKbunA0AGSmUm5nsrm)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
