@@ -1,7 +1,27 @@
 <h1 align="center">Hi, I'm Tanisha</h1>
 <h3 align="center">A passionate Full-Stack web developer from India</h3>
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" height="50px" /> </p>
+<!-- <p align="center"> <img src="https://avatars.githubusercontent.com/u/96083845?v=4" alt="tanishaa17" height="50px" /> </p> -->
+return SizedBox(
+  width: 250.0,
+  child: DefaultTextStyle(
+    style: const TextStyle(
+      fontSize: 30.0,
+      fontFamily: 'Agne',
+    ),
+    child: AnimatedTextKit(
+      animatedTexts: [
+        TypewriterAnimatedText('Discipline is the best tool'),
+        TypewriterAnimatedText('Design first, then code'),
+        TypewriterAnimatedText('Do not patch bugs out, rewrite them'),
+        TypewriterAnimatedText('Do not test bugs out, design them out'),
+      ],
+      onTap: () {
+        print("Tap Event");
+      },
+    ),
+  ),
+);
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
 
