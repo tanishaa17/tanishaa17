@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaa17" alt="tanishaa17" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://tanisha-gupta.netlify.app/](https://tanisha-gupta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tanishaa17.github.io/Portfolio/](https://tanishaa17.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@tanishaa17](https://medium.com/@tanishaa17)
 
 - 📫 How to reach me **tanishag117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K4vEzmeYLueZZlDRito4bMen8l-S097A/view?usp=share_link](https://drive.google.com/file/d/1K4vEzmeYLueZZlDRito4bMen8l-S097A/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LoW5Lkp7DqI4tL2GqS2lDx_7MF3OkTw8/view?usp=share_link](https://drive.google.com/file/d/1LoW5Lkp7DqI4tL2GqS2lDx_7MF3OkTw8/view?usp=share_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
